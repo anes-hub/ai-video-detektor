@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+safetensors
+opencv-python-headless
+Pillow
+numpy
+pandas
